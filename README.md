@@ -1,0 +1,2 @@
+# kursprojesi
+ kursprojesi
